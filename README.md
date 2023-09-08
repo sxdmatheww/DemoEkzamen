@@ -20,3 +20,8 @@ https://docs.google.com/document/d/17dkgRFIxEAdOvFsUuCD5TGeWHCqcC7U-Ha5MJ0EfdtI/
 Разработать диаграмму вариантов использования системы.
 
 Разработать ER-диаграмму.
+
+![image](https://github.com/sxdmatheww/DemoEkzamen/assets/97594112/d8b375e5-817c-429f-852b-93d77ea84694)
+![image](https://github.com/sxdmatheww/DemoEkzamen/assets/97594112/2d5e6263-6780-4bf1-9e04-274f3d585184)
+
+
